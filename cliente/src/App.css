@@ -1,0 +1,12 @@
+.estilocard{
+    background-color: rgb(141, 140, 146);
+}
+
+.fondo{
+    background-color: rgb(43, 43, 107);
+}
+
+.custom {
+    border: 5px solid transparent; /* Borde transparente */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Sombra */
+  }
